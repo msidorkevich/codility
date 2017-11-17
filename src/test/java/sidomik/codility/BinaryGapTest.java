@@ -1,6 +1,8 @@
-import org.junit.Test;
+package sidomik.codility;
 
-import static java.lang.Math.pow;
+import org.junit.Test;
+import sidomik.codility.BinaryGap;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class BinaryGapTest {

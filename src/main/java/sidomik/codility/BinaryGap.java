@@ -1,3 +1,5 @@
+package sidomik.codility;
+
 import static java.lang.Math.log;
 
 /**
